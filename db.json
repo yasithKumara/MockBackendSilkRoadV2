@@ -16,12 +16,12 @@
   "comments": [
     {
       "id": 1,
-      "body": "first comment",
+      "body": "some comment",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "second comment",
+      "body": "some comment",
       "postId": 1
     }
   ],
