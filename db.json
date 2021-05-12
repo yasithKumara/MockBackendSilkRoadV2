@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+	"productID":"1",
+      "manufactuter":"Seven Rocks International, Cheema Chowk, Ludhiana",
+  	"name":"Blue lucky cat printed White t shirt with bt8543",
+  	"ASIN":"B08CDRS2NY",
+  	"itemModel":"T285HS",
+  	"department":"Men",
+  	"packer":"Seven Rocks International, Cheema Chowk, Ludhiana",
+  	"importer":"Seven Rocks International, Cheema Chowk, Ludhiana",
+  	"materialComposition":"Cotton Polyester Blend: 60% Cotton and 40% Polyester",
+  	"productDimensions":"29 x 40 x 1 cm",
+  	"fitType":"Regular",
+  	"careInstructions":"Machine wash"
+    },
+    {
+	"productID":"2",
+      	"manufactuter":"Indra Hosiery Mills, Plot no 31,32,33, Punjab, India",
+  	"name":"white Skull logo printed black t shirt bt2387",
+  	"ASIN":"B08CDRS2NY",
+  	"itemModel":"e455HS",
+  	"department":"Women",
+  	"packer":"Indra Hosiery Mills, Plot no 31,32,33, Punjab, India",
+  	"importer":"Seven Rocks International, Cheema Chowk, Ludhiana",
+  	"materialComposition":"Cotton Polyester Blend: 75% Cotton and 25% Polyester",
+  	"productDimensions":"27 x 38 x 1 cm",
+  	"fitType":"Regular",
+  	"careInstructions":"Hand Wash Only"
+    }
+,
+    {
+	"productID":"3",
+      	"manufactuter":"Blue torn shorts sh3474 Switz Inc, lot 23, ",
+  	"name":"Auto Striper7-Whie-Dark Navy-Green_1",
+  	"ASIN":"B08CDRS2NY",
+  	"itemModel":"g765HS",
+  	"department":"Men",
+  	"packer":"Seven Rocks International, Cheema Chowk, Ludhiana",
+  	"importer":"Imperial Online Services Private Limited, Plot no 33, Road no 10C Hyderabad",
+  	"materialComposition":"Cotton Polyester Blend: 60% Cotton and 40% Polyester",
+  	"productDimensions":"29 x 40 x 1 cm",
+  	"fitType":"Regular",
+  	"careInstructions":"Machine wash"
+    }
+,
+    {
+	"productID":"4",
+      	"manufactuter":"Seven Rocks International, Cheema Chowk, Ludhiana",
+  	"name":"Black coat co3456",
+  	"ASIN":"B08CDRS2NY",
+  	"itemModel":"f435HS",
+  	"department":"Men",
+  	"packer":"Seven Rocks International, Cheema Chowk, Ludhiana",
+  	"importer":"Seven Rocks International, Cheema Chowk, Ludhiana",
+  	"materialComposition":"Nylon Polyester Blend: 60% Nylon and 40% Polyester",
+  	"productDimensions":"30 x 41 x 1 cm",
+  	"fitType":"Regular",
+  	"careInstructions":"Dry Clean Only"
+    }
+,
+    {
+	"productID":"5",
+      	"manufactuter":"Imperial Online Services Private Limited, Plot no 33, Road no 10C Hyderabad",
+  	"name":"Nelson 24 printed red white t shirt rt4565",
+  	"ASIN":"B08CDRS2NY",
+  	"itemModel":"gd5dHS",
+  	"department":"Men",
+  	"packer":"Imperial Online Services Private Limited, Plot no 33, Road no 10C Hyderabad",
+  	"importer":"Seven Rocks International, Cheema Chowk, Ludhiana",
+  	"materialComposition":"Cotton Polyester Blend: 60% Cotton and 40% Polyester",
+  	"productDimensions":"29 x 40 x 1 cm",
+  	"fitType":"Regular",
+  	"careInstructions":"Machine wash"
+    }
+,
+    {
+	"productID":"6",
+      	"manufactuter":"Navratra Ecommerce Pvt Ltd,8/19, Sarvapriya Vihar, New Delhi",
+  	"name":"Grey cap ca0987",
+  	"ASIN":"B08CDRS2NY",
+  	"itemModel":"eyf85HS",
+  	"department":"Men",
+  	"packer":"Navratra Ecommerce Pvt Ltd, Navratra Ecommerce Pvt Ltd,8/19, Sarvapriya Vihar, New Delhi",
+  	"importer":"Imperial Online Services Private Limited, Plot no 33, Road no 10C Hyderabad",
+  	"materialComposition":"Cotton Polyester Blend: 50% Cotton and 50% Polyester",
+  	"productDimensions":"29 x 40 x 1 cm",
+  	"fitType":"Regular",
+  	"careInstructions":"Hand wash only"
+    }
+  ]
+}
